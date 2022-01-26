@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
  .App{
     height: 100vh;
     display: flex;
@@ -7,3 +11,4 @@
     background-color: lightsalmon;
   font-family: 'Neonderthaw', cursive;
  }
+ 
