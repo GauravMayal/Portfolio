@@ -4,7 +4,7 @@ import MainSection from './MainSection'
 
 
 const BodyWrapper = styled.div`
-    background-color: lightcoral;
+   background-color: lightblue;
     display: flex;
     justify-content: center;
    

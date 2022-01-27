@@ -11,7 +11,7 @@ justify-content: space-evenly;
 align-items: center;
 padding: 2rem;
 font-size : 2rem;
-background-color: #6698c4;
+background-color: lightslategray;
 
 .icon-container{
 a{
@@ -21,6 +21,10 @@ a{
         width: 2.5rem;
     }
 }
+}
+
+.c-container{
+    font-size: 0.8rem;
 }
 `
 
@@ -35,8 +39,9 @@ function Footer(){
                         <img src = {linkedin_icon} />
                     </a>
                 </div>
+                <div className="c-container">
                 © Copyright 2022
-
+                </div>
             </FooterWrapper>
 );
 }

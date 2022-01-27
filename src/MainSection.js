@@ -7,7 +7,7 @@ display: flex;
     padding: 2rem;
     width: fit-content;
     height: fit-content;
-    background-color: aquamarine;
+    background-color: lightcyan;
     img{
         height: 10rem;
         width: 12rem;

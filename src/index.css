@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&family=Noticia+Text&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -8,7 +8,8 @@
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    background-color: lightsalmon;
-  font-family: 'Neonderthaw', cursive;
+    background-color: lightblue;
+    /*font-family: 'Neonderthaw', cursive;*/
+    font-family: 'Noticia Text', serif;
  }
  
